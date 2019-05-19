@@ -15,9 +15,10 @@ __Emergency Shuttle__:
 
 
 
-Play aas Antagonist
-Admin > Game Panel > Create Mob
-	Xenomorph: royal/queen
+__Play as Antagonist__:
+* Admin > Game Panel > Create Mob > type in the field:
+** royal/queen to play as Xenomorph
+** blob to play as The Blob
 
 
 Take Control of Mob
