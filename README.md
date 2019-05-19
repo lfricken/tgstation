@@ -10,7 +10,7 @@ __Emergency Shuttle__:
 
 [__Call the Emergency Shuttle__](https://wiki.ss13.co/Calling_the_Escape_Shuttle):
 * Go to the Bridge
-* Find the Comm Console ![comm_console](images/comm_console.png "")
+* Find the Comm Console ![comm_console](images/shuttle.png "")
 * Give the commands, in order: commaster, link, call
 
 
