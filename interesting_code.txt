@@ -1,0 +1,1 @@
+/datum/round_event/ghost_role/alien_infestation/spawn_role()

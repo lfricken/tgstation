@@ -50,7 +50,7 @@
 			owner.adjustToxLoss(10)
 
 /obj/item/organ/body_egg/alien_embryo/egg_process()
-	if(stage < 5 && prob(3))
+	if(stage < 5 && prob(50))
 		stage++
 		INVOKE_ASYNC(src, .proc/RefreshInfectionImage)
 
