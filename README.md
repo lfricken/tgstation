@@ -16,6 +16,8 @@ __Emergency Shuttle__:
 
 
 __Play as Antagonist__:
+* Admin > Aghost
+* Fly to your new location
 * Admin > Game Panel > Create Mob > type in the field:
   * royal/queen to play as Xenomorph
   * blob to play as The Blob
