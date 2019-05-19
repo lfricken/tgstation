@@ -1,27 +1,32 @@
 
-__Map__: Pubby Station
+__Map__: Pubby Station (scroll to bottom for map)
 
-Objective: Survive
+__Objective__: Escape on the Emergency Shuttle
 
-Emergency Shuttle
+__Emergency Shuttle__:
 * 35 minutes to arrive
 * 5 minutes refuel and leave
 * 1 minute to escape and end the round
 
-Call the Emergency Shuttle
+[__Call the Emergency Shuttle__](https://wiki.ss13.co/Calling_the_Escape_Shuttle):
 * Go to the Bridge
+* Find the Comm Console ![comm_console](images/comm_console.png "")
+* Give the commands, in order: commaster, link, call
 
 
 
-Play aas Antagonist
-Admin > Game Panel > Create Mob
-	Xenomorph: royal/queen
+__Play as Antagonist__:
+* Admin > Aghost
+* Fly to your new location
+* Admin > Game Panel > Create Mob > type in the field:
+  * royal/queen to play as Xenomorph
+  * blob to play as The Blob
 
 
 Take Control of Mob
 * Right Click > Creature > View Variables > Select option > Assume Direct Control
 
-![pubby](pubby.png "hi")
-![pubby_label](pubby_label.png "hi")
+![pubby](images/pubby.png "hi")
+![pubby_label](images/pubby_label.png "hi")
 
 
