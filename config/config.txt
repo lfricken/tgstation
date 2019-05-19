@@ -14,22 +14,22 @@ $include antag_rep.txt
 # There are various options which are hard-locked for security reasons.
 
 ## Server name: This appears at the top of the screen in-game and in the BYOND hub. Uncomment and replace 'tgstation' with the name of your choice.
-# SERVERNAME tgstation
+# SERVERNAME Fricken Station
 
 ## Server SQL name: This is the name used to identify the server to the SQL DB, distinct from SERVERNAME as it must be at most 32 characters.
 # SERVERSQLNAME tgstation
 
 ## Station name: The name of the station as it is referred to in-game. If commented out, the game will generate a random name instead.
-STATIONNAME Space Station 13
+STATIONNAME Fricken Station
 
 ## Put on byond hub: Uncomment this to put your server on the byond hub.
 #HUB
 
 ## Lobby time: This is the amount of time between rounds that players have to setup their characters and be ready.
-LOBBY_COUNTDOWN 120
+LOBBY_COUNTDOWN 1
 
 ## Round End Time: This is the amount of time after the round ends that players have to murder death kill each other.
-ROUND_END_COUNTDOWN 90
+ROUND_END_COUNTDOWN 5
 
 ## Comment this out if you want to use the SQL based admin system, the legacy system uses admins.txt.
 ## You need to set up your database to use the SQL based system.
@@ -74,46 +74,46 @@ ENABLE_LOCALHOST_RANK
 #USE_EXP_RESTRICTIONS_ADMIN_BYPASS
 
 ## log OOC channel
-LOG_OOC
+#LOG_OOC
 
 ## log client Say
-LOG_SAY
+#LOG_SAY
 
 ## log admin actions
-LOG_ADMIN
+#LOG_ADMIN
 
 ## log admin chat
-LOG_ADMINCHAT
+#LOG_ADMINCHAT
 
 ## log client access (logon/logoff)
-LOG_ACCESS
+#LOG_ACCESS
 
 ## log game actions (start of round, results, etc.)
-LOG_GAME
+#LOG_GAME
 
 ## log player votes
-LOG_VOTE
+#LOG_VOTE
 
 ## log client Whisper
-LOG_WHISPER
+#LOG_WHISPER
 
 ## log emotes
-LOG_EMOTE
+#LOG_EMOTE
 
 ## log attack messages
-LOG_ATTACK
+#LOG_ATTACK
 
 ## log pda messages
-LOG_PDA
+#LOG_PDA
 
 ## log telecomms messages
-LOG_TELECOMMS
+#LOG_TELECOMMS
 
 ## log prayers
-LOG_PRAYER
+#LOG_PRAYER
 
 ## log lawchanges
-LOG_LAW
+#LOG_LAW
 
 ## log crew manifest to seperate file
 LOG_MANIFEST
@@ -135,13 +135,13 @@ LOG_MANIFEST
 # LOG_MECHA
 
 ## log virus and actions
-LOG_VIRUS
+#LOG_VIRUS
 
 ## log cloning actions
-LOG_CLONING
+#LOG_CLONING
 
 ##Log camera pictures - Must have picture logging enabled
-PICTURE_LOGGING_CAMERA
+#PICTURE_LOGGING_CAMERA
 
 ## period of time in seconds for players to be considered inactive
 # INACTIVITY_PERIOD 300
@@ -180,7 +180,7 @@ VOTE_PERIOD 600
 # DEFAULT_NO_VOTE
 
 ## disable abandon mob
-NORESPAWN
+#NORESPAWN
 
 ## disables calling del(src) on newmobs if they logout before spawnin in
 # DONT_DEL_NEWMOB
@@ -361,7 +361,7 @@ NOTIFY_NEW_PLAYER_ACCOUNT_AGE 1
 AUTOCONVERT_NOTES
 
 ## Comment this out to stop admin messages sent anytime an admin disconnects from a round in play, you can edit the messages in admin.dm
-ANNOUNCE_ADMIN_LOGOUT
+#ANNOUNCE_ADMIN_LOGOUT
 
 ## Uncomment to have an admin message sent anytime an admin connects to a round in play, you can edit the messages in admin.dm
 #ANNOUNCE_ADMIN_LOGIN
@@ -373,7 +373,7 @@ MAPROTATION
 ## Map voting
 ## Allows players to vote for their preffered map
 ## When it's set to zero, the map will be randomly picked each round
-ALLOW_MAP_VOTING 1
+#ALLOW_MAP_VOTING 1
 
 ## Map rotate chance delta
 ## This is the chance of map rotation factored to the round length.
