@@ -11,6 +11,7 @@ __Emergency Shuttle__:
 __Call the Emergency Shuttle__:
 * Go to the Bridge
 * Find the Comm Console ![comm_console](images/comm_console.png "")
+* Give the commands, in order: commaster, link, call
 
 
 
