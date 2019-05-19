@@ -21,3 +21,7 @@ Admin > Game Panel > Create Mob
 Take Control of Mob
 * Right Click > Creature > View Variables > Select option > Assume Direct Control
 
+![pubby](pubby.png "hi")
+![pubby_label](pubby_label.png "hi")
+
+
