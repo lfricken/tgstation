@@ -12,25 +12,24 @@ Format:
 	disabled (disables the map)
 endmap
 
-map boxstation
+
+
+map pubbystation
 	default
-	#voteweight 1.5
+endmap
+
+
+
+map boxstation
 endmap
 
 map metastation
-	minplayers 25
-	#voteweight 0.5
-endmap
-
-map pubbystation
 endmap
 
 map deltastation
-	minplayers 50
 endmap
 
 map donutstation
-	minplayers 50
 endmap
 
 map runtimestation
